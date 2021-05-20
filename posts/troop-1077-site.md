@@ -1,5 +1,5 @@
 ---
-title: "Troop 1077 Site"
+title: "Boy Scout Troop 1077 Site"
 date: "2019-12-23"
 ---
 

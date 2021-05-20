@@ -1,0 +1,36 @@
+.input {
+  appearance: none;
+  -webkit-appearance: none;
+
+  grid-column: span 1;
+  font-size: 1.25em;
+
+  padding: 0.75rem;
+  border: 0;
+  box-shadow: 0 0 1rem 0.25rem rgba(0, 0, 0, 0.08);
+  border-radius: 0.25rem;
+}
+
+.textarea {
+  font-size: 1em;
+  appearance: none;
+  -webkit-appearance: none;
+
+  grid-column: span 2;
+
+  width: 100%;
+  resize: vertical;
+  padding: 0.75rem;
+  border-radius: 0.25rem;
+  border: 0;
+  box-shadow: 0 0 1rem 0.25rem rgba(0, 0, 0, 0.08);
+  height: 50vh;
+  max-height: 15em;
+}
+
+.grid {
+  display: grid;
+  gap: 1rem;
+
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+}

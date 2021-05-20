@@ -1,19 +1,17 @@
 ---
-title: "Vigenere Cipher"
+title: "Vigenere Cipher Cracker"
 date: "2020-08-10"
 ---
 
-## Vigenere Cipher Cracker
-
-[Github Link](https://github.com/zpetsrillo/vigenere-cipher)
+## [Github Link](https://github.com/zpetsrillo/vigenere-cipher)
 
 Python class to crack a simple vigenere cipher.
 
-## About
+### About
 
 This program was built in order to complete [Level 5 of the Krypton wargames](https://overthewire.org/wargames/krypton/krypton5.html). I had fun writing this code and was happy with that it worked in successfully discovering the password.
 
-## Assumptions
+### Assumptions
 
 - Data for the program is in English and known to be real words.
 - Data is not case sensitive and only contains letters.

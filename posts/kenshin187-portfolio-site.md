@@ -1,11 +1,9 @@
 ---
-title: "Kenshin187 Art Portfolio Site"
+title: "Art Portfolio Website for Kenshin187"
 date: "2020-08-19"
 ---
 
-[Kenshin187 Portfolio Site](https://kenshin187-dev.web.app/)
-
-## Kenshin187 Art Site
+## [View it on the web here](https://kenshin187-dev.web.app/)
 
 A simple web page to display some of Kenshin187’s work and provide information on pricing for commissions and links to social media.
 

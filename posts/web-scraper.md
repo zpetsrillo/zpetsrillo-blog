@@ -3,7 +3,7 @@ title: "Book Information Web Scraper"
 date: "2020-05-02"
 ---
 
-[Github Link](https://github.com/zpetsrillo/book-information)
+## [Github Link](https://github.com/zpetsrillo/book-information)
 
 My father enjoys collecting books and comics. I noticed that he spends a lot of time entering information about the books into an excel file on his computer. I thought there must be a better way for him to do this. He had been searching for the books on Amazon.com and copying the information down. A task like this lends itself perfectly towards being automated. I did some research and learned that web scraping could accomplish this.
 

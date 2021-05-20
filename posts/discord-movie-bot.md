@@ -1,11 +1,9 @@
 ---
-title: "Discord Movie Bot"
+title: "Discord Movie Night Scheduling Bot"
 date: "2020-12-11"
 ---
 
-[Movie bot](https://github.com/zpetsrillo/pirate-bot)
-
-## Pirate Bot
+## [Github Link](https://github.com/zpetsrillo/pirate-bot)
 
 Discord bot for organizing movie nights with friends on our personal Discord server.
 
