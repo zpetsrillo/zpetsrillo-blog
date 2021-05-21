@@ -17,7 +17,7 @@ export default function Home({ allPostsData }) {
         <p>
           I'm a self starter and lifelong learner with a tenacity for solving
           coding challenges. Current topics I'm learning are full stack
-          development, blockchain, and artificial inteligence.
+          development, blockchain, and artificial intelligence.
         </p>
         <p>
           I'm open to collaborating on interesting projects or business
