@@ -3,7 +3,7 @@ title: "Playlist Plus - YouTube Playlist Enhacement Website"
 date: "2020-05-08"
 ---
 
-[View it on the web here](https://playlist.plus/)
+[GitHub](https://github.com/zpetsrillo/yt-playlist-plus)
 
 When using YouTube for listneing to music, I felt that a few features for playlists were lacking. I built this small project in order to test my ideas and improve my own experience.
 

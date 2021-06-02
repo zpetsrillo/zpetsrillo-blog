@@ -9,13 +9,13 @@ Easily retrieve op.gg data for use in Python
 
 ## Motivations
 
-I wanted to use data from the game League of Legends to conduct my own analysis. Riot games (the makers of the game) [have an API](https://developer.riotgames.com) that can be used to get all game related data, but this API is restricted in use. Unless one gets a project proposal approved by them, you get very limited personal access. This pushed towards looking into third party solutions. I couldn't find any other APIs for the data. There are a few websites that use their access to Riot's API for presenting game data. On GitHub there were a couple small projects which scraped data from [OP.GG](http://op.gg), the largest of these third party sites. None of them were fully featured and ran very slowly. I took the best one I saw (which you can see [here](https://github.com/emily-yu/scrape.gg). This still left a lot of additional work before it would be useful for me.
+I wanted to use data from the game League of Legends to conduct my own analysis. Riot games (the makers of the game) [have an API](https://developer.riotgames.com) that can be used to get all game related data, but this API is restricted in use. Unless one gets a project proposal approved by them, you get very limited personal access. This pushed towards looking into third party solutions. I couldn't find any other APIs for the data. There are a few websites that use their access to Riot's API for presenting game data. On GitHub there were a couple small projects which scraped data from [OP.GG](http://op.gg), the largest of these third party sites. None of them were fully featured and ran very slowly. I took the best one I saw ([scrapeGG](https://github.com/emily-yu/scrape.gg) by Emily Yu). This still left a lot of additional work before it would be useful for me.
 
 ## Goals
 
 - Easy to use access to League of Legends data
 - Fast and efficient retrieval of data
-- Clear and understandable documenation
+- Clear and understandable documentation
 - Unit testing to insure functionality
 
 ## Challenges
