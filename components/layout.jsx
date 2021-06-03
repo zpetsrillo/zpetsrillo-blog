@@ -28,7 +28,7 @@ export default function Layout({ children, home }) {
       <header className={styles.header}>
         {home && (
           <>
-            <h1 className={utilStyles.headingXl}>{name + "'s website"}</h1>
+            <h1 className={utilStyles.headingXl}>{name}</h1>
           </>
         )}
       </header>
